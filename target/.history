@@ -1,0 +1,15 @@
+sbt/sbt build
+sbt build
+build
+compile
+build
+sbt build
+test
+help
+publish
+compile
+package
+sbt run
+run
+compile
+run
